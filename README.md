@@ -41,7 +41,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 There were some challenges implementing the character count and restricting user input past the maximum number of characters allowed.
 
 ## Open-source libraries used
